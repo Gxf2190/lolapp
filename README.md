@@ -1,6 +1,8 @@
 # lolapp
 
-> A Vue.js project
+> 
+##技术栈 VUE2.0+LESS+VUEX+ES6+AXIOS+VUE-ROUTER
+
 
 ## Build Setup
 
