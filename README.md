@@ -1,7 +1,7 @@
 # lolapp
 
 
-##技术栈 VUE2.0+LESS+VUEX+ES6+AXIOS+VUE-ROUTER
+技术栈 VUE2.0+LESS+VUEX+ES6+AXIOS+VUE-ROUTER
 
 
 ## Build Setup
